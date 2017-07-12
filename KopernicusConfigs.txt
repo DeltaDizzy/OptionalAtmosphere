@@ -1,0 +1,23 @@
+
+@Kopernicus:FOR[Mod Name]
+
+{
+
+	@Body[Body Name]
+	{
+		Atmosphere
+		{
+			ambientColor = ~ ~ ~ Atmosphere Ambient Color (USELESS)	
+                        lightColor = ~ ~ ~ Atmosphere Light Color
+			enabled = TRUE TRUE TRUE!!!!
+			oxygen = Oxygen Atmosphere?
+			maxAltitude = Altitude Max
+			pressureCurve
+			{
+                                 key = (Altitude) ~ ~ ~
+                                 key = (Altitude) ~ ~ ~
+			}
+		}
+	}
+}
+
