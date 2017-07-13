@@ -10,7 +10,7 @@
 			ambientColor = ~ ~ ~ Atmosphere Ambient Color (USELESS)	
                         lightColor = ~ ~ ~ Atmosphere Light Color
 			enabled = TRUE TRUE TRUE!!!!
-			oxygen = Oxygen Atmosphere?
+			oxygen = Oxygen Atmosphere
 			maxAltitude = Altitude Max
 			pressureCurve
 			{
