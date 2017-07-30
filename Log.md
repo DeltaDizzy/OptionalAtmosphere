@@ -15,7 +15,7 @@ Improvement of Moho and Ike atmosphere
 
 Release 1.2 :
 
-The third version
+The third version 
 This version of the mod corrects bizarre errors and what improvements
 
 Release 1.1 : 
