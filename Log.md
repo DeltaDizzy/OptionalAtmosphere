@@ -1,4 +1,10 @@
-Latest release 1.3.9 :
+Latest release 1.4 :
+
+The seventh version
+
+This version of the mod corrects the error in the mod files and adds color to non-existent atmospheres
+
+Release 1.3.9 :
 
 The sixth version
 
