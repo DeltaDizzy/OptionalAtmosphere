@@ -7,12 +7,12 @@
 	{
 		Atmosphere
 		{
-			ambientColor = ~ ~ ~ Atmosphere Ambient Color (USELESS)	
-                        lightColor = ~ ~ ~ Atmosphere Light Color
-			enabled = TRUE TRUE TRUE!!!!
-			oxygen = Oxygen Atmosphere
-			maxAltitude = Altitude Max
-			pressureCurve
+			ambientColor =  //Atmosphere Ambient Color (R,G,B,A<[Opacity])(USELESS)	
+                        lightColor =  //Atmosphere Light Color (R,G,B,A)
+			enabled = True //Don't change
+			oxygen = //True of False
+			maxAltitude = //How far does it go? Kerbin = 70000
+			pressureCurve //(idk how these work)
 			{
                                  key = (Altitude) ~ ~ ~
                                  key = (Altitude) ~ ~ ~
