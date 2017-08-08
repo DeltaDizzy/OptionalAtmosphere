@@ -1,5 +1,5 @@
 
-@Kopernicus:FOR[Mod Name]
+@Kopernicus:FOR[Mod Name]:NEEDS[OptionalAtmospheres]
 
 {
 
