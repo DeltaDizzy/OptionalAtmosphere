@@ -7,16 +7,11 @@
 	{
 		Atmosphere
 		{
-			ambientColor =  //Atmosphere Ambient Color (R,G,B,A<[Opacity])(USELESS)	
-                        lightColor =  //Atmosphere Light Color (R,G,B,A)
+			ambientColor = R,G,B,1 //Atmosphere Ambient Color(Red,Green,Blue,1)
+                        lightColor =  //Atmosphere Light Color (Red,Green,Blue,1)
 			enabled = True //Don't change
-			oxygen = //True of False
-			maxAltitude = //How far does it go? Kerbin = 70000
-			pressureCurve //(idk how these work)
-			{
-                                 key = (Altitude) ~ ~ ~
-                                 key = (Altitude) ~ ~ ~
-			}
+			oxygen = //Does the Atmosphere have oxygen?(Can Jet Engines work?) Must be True or False
+			maxAltitude = //What altitude does it stop at? Kerbin = 70000
 		}
 	}
 }
