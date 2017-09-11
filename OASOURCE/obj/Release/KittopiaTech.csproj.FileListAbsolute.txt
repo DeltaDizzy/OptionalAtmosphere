@@ -1,0 +1,2 @@
+C:\Users\DeltaDizzy\Desktop\Distribution\Release\KittopiaTech\Plugins\KittopiaTech.dll
+C:\Users\DeltaDizzy\Desktop\OASOURCE\obj\Release\KittopiaTech.dll
