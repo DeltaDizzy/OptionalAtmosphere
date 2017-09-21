@@ -1,3 +1,0 @@
-C:\Users\DeltaDizzy\Desktop\Distribution\Release\OptionalAtmospheres\Plugins\OptionalAtmospheres.dll
-C:\Users\DeltaDizzy\Desktop\OASOURCE\obj\Release\OptionalAtmospheres.csprojResolveAssemblyReference.cache
-C:\Users\DeltaDizzy\Desktop\OASOURCE\obj\Release\OptionalAtmospheres.dll
