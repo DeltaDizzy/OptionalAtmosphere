@@ -1,12 +1,22 @@
 README
 
-1. Download Kopernicus (http://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-122-kopernicus-release-4-june-15/) (1.3.0-6 IMPORTANT !!), ModularFlightIntegrator (http://forum.kerbalspaceprogram.com/index.php?/topic/106369-122-modularflightintegrator-124-march-23th/)(It is bundled with Kopernicus) and ModuleManager(bundled with Kopernicus) (http://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/) (latest version
-)
+TO INSTALL:
 
-2. Put the mods folders in the GameData folder
+Download and Install Kopernicus (https://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-8-sep-26/) and its dependencies(they're bundled)
 
-3. Start the game (KSP)
 
-4. Have fun :)
+Place the SamBelanger folder into Kerbal Space Program/GameData
 
-And if you have a suggestion or find bugs or errors, contact us (pikmin-123@hotmail.com, officialdeltadizzy@gmail.com, or make a private message on Discord or the KSP Forum or otherwise) Thank you very much!
+TO UPDATE:
+Delete the SamBelanger folder from Kerbal Space Program/GameData and Install the latest version.
+
+If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us (pikmin-123@hotmail.com, officialdeltadizzy@gmail.com) Thank you very much!
+
+***********************************************************
+SPECIAL THANKS TO:
+
+blowfish for helping with the coding side of things
+C-Ninja Man for a dummy plugin to start off with and much support
+and probably many more(if you want a mention, please tell DeltaDizzy)
+
+The License is MIT
