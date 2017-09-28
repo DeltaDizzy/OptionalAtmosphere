@@ -22,3 +22,10 @@ SPECIAL THANKS TO:
 -and probably many more(if you want a mention, please tell DeltaDizzy)
 
 The License is MIT
+
+TO OPTIONALIZE ATMOSPHERES:
+
+Select Body in Tracking station or Map.
+press CTRL+A
+boom
+no restart required
