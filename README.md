@@ -15,8 +15,10 @@ If you have a suggestion or find bugs or errors, use the GitHub issues page or c
 ***********************************************************
 SPECIAL THANKS TO:
 
-blowfish for helping with the coding side of things
-C-Ninja Man for a dummy plugin to start off with and much support
-and probably many more(if you want a mention, please tell DeltaDizzy)
+-blowfish for helping with the coding side of things
+
+-C-Ninja Man for a dummy plugin to start off with and much support
+
+-and probably many more(if you want a mention, please tell DeltaDizzy)
 
 The License is MIT
