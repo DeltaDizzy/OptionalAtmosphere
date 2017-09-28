@@ -25,7 +25,7 @@ The License is MIT
 
 TO OPTIONALIZE ATMOSPHERES:
 
-Select Body in Tracking station or Map.
-press CTRL+A
-boom
-no restart required
+1) Select Body in Tracking station or Map.
+2) press CTRL+A
+3) boom
+4) no restart required
