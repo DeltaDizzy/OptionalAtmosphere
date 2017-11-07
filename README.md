@@ -17,9 +17,9 @@ SPECIAL THANKS TO:
 
 - blowfish for helping with the coding side of things
 
-- C-Ninja Man for a dummy plugin to start off with and much support
+- That one weird guy for something, that I cant remember
 
-- and probably many more(if you want a mention, please tell DeltaDizzy)
+- and probably many more
 
 The License is MIT
 
