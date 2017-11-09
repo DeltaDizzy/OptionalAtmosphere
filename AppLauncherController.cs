@@ -17,7 +17,7 @@ namespace OptionalAtmopsheres2
                    
 
                     
-                    Texture2D OATex = GameDatabase.Instance.GetTexture("OptionalAtmospheresReavamped/Icons/OAR.png", false);
+                    Texture2D OATex = GameDatabase.Instance.GetTexture("OptionalAtmospheresRevamped/Icons/OAR.png", false);
                     KSP.UI.Screens.ApplicationLauncher.Instance.AddModApplication(
                             onTrue: AtmosphereController.AtmosphereToggler,
                             onFalse: null,
