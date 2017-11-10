@@ -5,10 +5,10 @@ TO INSTALL:
 Download and Install Kopernicus (https://forum.kerbalspaceprogram.com/index.php?/topic/140580-130-kopernicus-release-8-sep-26/) and its dependencies(they're bundled)
 
 
-Place the SamBelanger folder into Kerbal Space Program/GameData
+Place the OptionalAtmospheresRevamped folder into Kerbal Space Program/GameData
 
 TO UPDATE:
-Delete the SamBelanger folder from Kerbal Space Program/GameData and Install the latest version.
+Delete the OptionalAtmopsheresRevamped folder from Kerbal Space Program/GameData and Install the latest version.
 
 If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us (pikmin-123@hotmail.com, officialdeltadizzy@gmail.com) Thank you very much!
 
@@ -18,6 +18,8 @@ SPECIAL THANKS TO:
 - blowfish for helping with the coding side of things
 
 - That one weird guy for something, that I cant remember
+
+- mrcarrot for creating the new icon and demonstratng bugs
 
 - and probably many more
 
