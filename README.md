@@ -19,7 +19,7 @@ SPECIAL THANKS TO:
 
 - That one weird guy for something, that I cant remember
 
-- mrcarrot for creating the new icon and demonstratng bugs
+- Mrcarrot for creating the new icon and demonstrating bugs
 
 - and probably many more
 
