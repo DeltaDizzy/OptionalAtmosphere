@@ -10,7 +10,7 @@ Place the OptionalAtmospheresRevamped folder into Kerbal Space Program/GameData
 TO UPDATE:
 Delete the OptionalAtmopsheresRevamped folder from Kerbal Space Program/GameData and Install the latest version.
 
-If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us by Discord or Email(officialdeltadizzy@gmail.com, or mrcarrotksp@gmail.com). Thank you very much!
+If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us by Discord or Email(officialdeltadizzy@gmail.com or mrcarrotksp@gmail.com). Thank you very much!
 
 ***********************************************************
 SPECIAL THANKS TO:
