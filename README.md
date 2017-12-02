@@ -10,16 +10,18 @@ Place the OptionalAtmospheresRevamped folder into Kerbal Space Program/GameData
 TO UPDATE:
 Delete the OptionalAtmopsheresRevamped folder from Kerbal Space Program/GameData and Install the latest version.
 
-If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us by Discord or Email(officialdeltadizzy@gmail.com, or mrcarrotksp@gmail.com). Thank you very much!
+If you have a suggestion or find bugs or errors, use the GitHub issues page or contact us by Discord or Email(officialdeltadizzy@gmail.com or mrcarrotksp@gmail.com). Thank you very much!
 
 ***********************************************************
 SPECIAL THANKS TO:
 
 - blowfish for helping with the coding side of things
 
-- That one weird guy for something, that I cant remember
+- some random guy for something I cant remember
 
-- mrcarrot for creating the new icon and demonstratng bugs
+- Thomas P. for Kopernicus
+
+- Mrcarrot for creating the new icon and demonstrating bugs
 
 - and probably many more
 
