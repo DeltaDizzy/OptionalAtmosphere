@@ -17,6 +17,8 @@ SPECIAL THANKS TO:
 
 - blowfish for helping with the coding side of things
 
+- some random guy for something I cant remember
+
 - Thomas P. for Kopernicus
 
 - Mrcarrot for creating the new icon and demonstrating bugs
