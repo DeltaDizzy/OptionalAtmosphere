@@ -89,6 +89,7 @@ namespace OptionalAtmopsheres2
             if(Input.GetKey(KeyCode.LeftControl) && Input.GetKeyDown(KeyCode.A))
             {
                 AtmosphereToggler();
+                ToolbarControllers.AppLauncherController();
             }
         }
     }
